@@ -2,7 +2,7 @@
 
 var parola1=prompt("inserisci quanti km devi percorrere");
 var parola2=prompt("inserisci la tua eta");
-
+var prezzo3 = "prezzo totale : " + prezzo2 ;
 var prezzo2 =  0.21 * parola1 ;
 var prezzo= alert( prezzo2 + "$" ) ;
 
